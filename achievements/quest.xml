@@ -1,0 +1,16 @@
+<achievements>
+    <a name="GameWinStreak" best="6" time="1477406365903" current="3"/>
+    <a name="MatchWinStreak" best="4" time="1477331079292" current="3"/>
+    <a name="TotalGameWins" best="73" time="1510947931096"/>
+    <a name="TotalMatchWins" best="32" time="1510947931097"/>
+    <a name="NeedForSpeed" best="6" time="1510517705847"/>
+    <a name="Overkill" best="-14" time="1477436297073"/>
+    <a name="LifeToSpare" best="21" time="1509493196012"/>
+    <a name="Hellbent" best="1" time="1477344334569"/>
+    <a name="ArcaneMaster" best="2" time="1510094515768"/>
+    <a name="StormChaser" best="3" time="1477344846091"/>
+    <a name="ManaScrewed" best="4" time="1510094520400"/>
+    <a name="ManaFlooded" best="13" time="1502057746430"/>
+    <a name="RagsToRiches" best="5" time="1509492651713"/>
+    <a name="DeckedOut" best="12" time="1510525886773"/>
+</achievements>

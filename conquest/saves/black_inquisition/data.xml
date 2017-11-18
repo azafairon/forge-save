@@ -1,0 +1,571 @@
+<data aetherShards="500" planeswalkEmblems="24" selectedCommanderIndex="1">
+    <planeswalker name="Liliana of the Veil" set="MM3" art="1"/>
+    <currentLocation plane="Zendikar" regionIndex="0" row="2" col="0"/>
+    <chaosBattleRecord wins="1" losses="3"/>
+    <unlockedCards>
+        <card name="Dismal Backwater" set="C16" art="1"/>
+        <card name="Molten Ravager" set="ZEN" art="1"/>
+        <card name="Warping Wail" set="OGW" art="1"/>
+        <card name="Bloodhusk Ritualist" set="WWK" art="1"/>
+        <card name="Sea Gate Oracle" set="ROE" art="1"/>
+        <card name="Pilgrim's Eye" set="BFZ" art="1"/>
+        <card name="Halimar Wavewatch" set="ROE" art="1"/>
+        <card name="Complete Disregard" set="BFZ" art="1"/>
+        <card name="Transgress the Mind" set="BFZ" art="1"/>
+        <card name="Quirion Explorer" set="C16" art="1"/>
+        <card name="Dandan" set="ARN" art="1"/>
+        <card name="Boiling Earth" set="BFZ" art="1"/>
+        <card name="Journey to Nowhere" set="ZEN" art="1"/>
+        <card name="Rot Shambler" set="BFZ" art="1"/>
+        <card name="Piety" set="ARN" art="1"/>
+        <card name="Zulaport Enforcer" set="ROE" art="1"/>
+        <card name="Lagac Lizard" set="ROE" art="1"/>
+        <card name="Carrier Thrall" set="BFZ" art="1"/>
+        <card name="Flying Carpet" set="ARN" art="1"/>
+        <card name="Luminous Wake" set="ROE" art="1"/>
+        <card name="Glory Seeker" set="ROE" art="1"/>
+        <card name="Ob Nixilis, Unshackled" set="M15" art="1"/>
+        <card name="Spawning Breath" set="ROE" art="1"/>
+        <card name="Spreading Seas" set="ZEN" art="1"/>
+        <card name="Goblin Bushwhacker" set="ZEN" art="1"/>
+        <card name="Rukh Egg" set="ARN" art="1"/>
+        <card name="Reflector Mage" set="OGW" art="1"/>
+        <card name="Smite the Monstrous" set="BFZ" art="1"/>
+        <card name="Spawning Bed" set="BFZ" art="1"/>
+        <card name="Scrib Nibblers" set="WWK" art="1"/>
+        <card name="Visions of Brutality" set="OGW" art="1"/>
+        <card name="Baloth Woodcrasher" set="ZEN" art="1"/>
+        <card name="Elite Scaleguard" set="C16" art="1"/>
+        <card name="Bird Maiden" set="ARN" art="1"/>
+        <card name="Zulaport Cutthroat" set="BFZ" art="1"/>
+        <card name="Eye for an Eye" set="ARN" art="1"/>
+        <card name="Vampire Hexmage" set="ZEN" art="1"/>
+        <card name="Eel Umbra" set="ROE" art="1"/>
+        <card name="Wild Instincts" set="ORI" art="1"/>
+        <card name="Turntimber Grove" set="ZEN" art="1"/>
+        <card name="Wildheart Invoker" set="ROE" art="1"/>
+        <card name="Mountain" set="ARN" art="1"/>
+        <card name="Bala Ged Scorpion" set="ROE" art="1"/>
+        <card name="Makindi Aeronaut" set="OGW" art="1"/>
+        <card name="Earthen Arms" set="BFZ" art="1"/>
+        <card name="Library of Alexandria" set="ARN" art="1"/>
+        <card name="Ulamog's Nullifier" set="BFZ" art="1"/>
+        <card name="Brass Man" set="ARN" art="1"/>
+        <card name="Gatekeeper of Malakir" set="ZEN" art="1"/>
+        <card name="Veteran's Reflexes" set="WWK" art="1"/>
+        <card name="Staggershock" set="ROE" art="1"/>
+        <card name="Walking Atlas" set="WWK" art="1"/>
+        <card name="Nest Invader" set="ROE" art="1"/>
+        <card name="Comparative Analysis" set="OGW" art="1"/>
+        <card name="Halimar Tidecaller" set="BFZ" art="1"/>
+        <card name="Processor Assault" set="BFZ" art="1"/>
+        <card name="Immolating Glare" set="OGW" art="1"/>
+        <card name="Nature's Claim" set="WWK" art="1"/>
+        <card name="Eldrazi Devastator" set="BFZ" art="1"/>
+        <card name="Lead by Example" set="OGW" art="1"/>
+        <card name="Gideon's Reproach" set="BFZ" art="1"/>
+        <card name="Shoulder to Shoulder" set="OGW" art="1"/>
+        <card name="Teetering Peaks" set="ZEN" art="1"/>
+        <card name="Kor Outfitter" set="ZEN" art="1"/>
+        <card name="Geyserfield Stalker" set="BFZ" art="1"/>
+        <card name="Iona's Judgment" set="WWK" art="1"/>
+        <card name="Cranial Plating" set="C16" art="1"/>
+        <card name="Sparkmage's Gambit" set="OGW" art="1"/>
+        <card name="Fledgling Griffin" set="WWK" art="1"/>
+        <card name="Caller of Gales" set="ZEN" art="1"/>
+        <card name="Giant Mantis" set="BFZ" art="1"/>
+        <card name="Wyluli Wolf" set="ARN" art="2"/>
+        <card name="Retreat to Emeria" set="BFZ" art="1"/>
+        <card name="Bloodrite Invoker" set="ROE" art="1"/>
+        <card name="Brood Butcher" set="BFZ" art="1"/>
+        <card name="Battle-Rattle Shaman" set="ROE" art="1"/>
+        <card name="Near-Death Experience" set="ROE" art="1"/>
+        <card name="Erg Raiders" set="ARN" art="2"/>
+        <card name="Allied Reinforcements" set="OGW" art="1"/>
+        <card name="Claws of Valakut" set="WWK" art="1"/>
+        <card name="Parting Thoughts" set="C16" art="1"/>
+        <card name="Culling Drone" set="BFZ" art="1"/>
+        <card name="Isolation Zone" set="OGW" art="1"/>
+        <card name="Ghostly Sentinel" set="BFZ" art="1"/>
+        <card name="Essence Depleter" set="OGW" art="1"/>
+        <card name="Heartstabber Mosquito" set="ZEN" art="1"/>
+        <card name="Akoum Battlesinger" set="WWK" art="1"/>
+        <card name="Grip of the Roil" set="OGW" art="1"/>
+        <card name="Blighted Steppe" set="BFZ" art="1"/>
+        <card name="Whiplash Trap" set="ZEN" art="1"/>
+        <card name="Vent Sentinel" set="ROE" art="1"/>
+        <card name="Desert Nomads" set="ARN" art="1"/>
+        <card name="Outnumber" set="BFZ" art="1"/>
+        <card name="Far Wanderings" set="C16" art="1"/>
+        <card name="Vampire Nighthawk" set="ZEN" art="1"/>
+        <card name="Army of Allah" set="ARN" art="2"/>
+        <card name="Thornwood Falls" set="C16" art="1"/>
+        <card name="Swiftwater Cliffs" set="C16" art="1"/>
+        <card name="Sky Scourer" set="OGW" art="1"/>
+        <card name="Needle Spires" set="OGW" art="1"/>
+        <card name="Valakut Invoker" set="BFZ" art="1"/>
+        <card name="Zendikar Farguide" set="ZEN" art="1"/>
+        <card name="Ogre's Cleaver" set="ROE" art="1"/>
+        <card name="Tajuru Archer" set="ZEN" art="1"/>
+        <card name="Wyluli Wolf" set="ARN" art="1"/>
+        <card name="Makindi Patrol" set="BFZ" art="1"/>
+        <card name="Expedite" set="OGW" art="1"/>
+        <card name="Kraken Hatchling" set="ZEN" art="1"/>
+        <card name="Kalastria Nightwatch" set="BFZ" art="1"/>
+        <card name="Tideforce Elemental" set="WWK" art="1"/>
+        <card name="Grim Discovery" set="ZEN" art="1"/>
+        <card name="Skitter of Lizards" set="WWK" art="1"/>
+        <card name="Magnetic Mountain" set="ARN" art="1"/>
+        <card name="Kozilek's Channeler" set="BFZ" art="1"/>
+        <card name="Blighted Gorge" set="BFZ" art="1"/>
+        <card name="Steppe Lynx" set="ZEN" art="1"/>
+        <card name="Akoum Flameseeker" set="OGW" art="1"/>
+        <card name="Urge to Feed" set="WWK" art="1"/>
+        <card name="Giant Tortoise" set="ARN" art="1"/>
+        <card name="Bone Splinters" set="BFZ" art="1"/>
+        <card name="Submerged Boneyard" set="OGW" art="1"/>
+        <card name="Shared Discovery" set="ROE" art="1"/>
+        <card name="Vapor Snare" set="WWK" art="1"/>
+        <card name="Silent Skimmer" set="BFZ" art="1"/>
+        <card name="Vestige of Emrakul" set="BFZ" art="1"/>
+        <card name="Gigantiform" set="ZEN" art="1"/>
+        <card name="Corpse Churn" set="OGW" art="1"/>
+        <card name="Wall of Blossoms" set="C16" art="1"/>
+        <card name="Oracle of Dust" set="BFZ" art="1"/>
+        <card name="Mire's Toll" set="WWK" art="1"/>
+        <card name="Pawn of Ulamog" set="ROE" art="1"/>
+        <card name="Affa Guard Hound" set="ROE" art="1"/>
+        <card name="Consume the Meek" set="ROE" art="1"/>
+        <card name="Zulaport Chainmage" set="OGW" art="1"/>
+        <card name="Shadowblood Ridge" set="C16" art="1"/>
+        <card name="Scythe Leopard" set="BFZ" art="1"/>
+        <card name="Mnemonic Wall" set="ROE" art="1"/>
+        <card name="Battle Hurda" set="WWK" art="1"/>
+        <card name="Grave Upheaval" set="C16" art="1"/>
+        <card name="Umara Entangler" set="OGW" art="1"/>
+        <card name="Negate" set="OGW" art="1"/>
+        <card name="Flaying Tendrils" set="OGW" art="1"/>
+        <card name="Cultivator Drone" set="OGW" art="1"/>
+        <card name="Phantasmal Abomination" set="ROE" art="1"/>
+        <card name="Brink of Disaster" set="WWK" art="1"/>
+        <card name="Groundswell" set="WWK" art="1"/>
+        <card name="Piranha Marsh" set="ZEN" art="1"/>
+        <card name="Eldrazi Mimic" set="OGW" art="1"/>
+        <card name="Serpentine Spike" set="BFZ" art="1"/>
+        <card name="Electropotence" set="ZEN" art="1"/>
+        <card name="Death's Shadow" set="WWK" art="1"/>
+        <card name="Last Kiss" set="ROE" art="1"/>
+        <card name="Bull Rush" set="WWK" art="1"/>
+        <card name="Valakut Predator" set="BFZ" art="1"/>
+        <card name="Psychosis Crawler" set="C16" art="1"/>
+        <card name="Tar Snare" set="OGW" art="1"/>
+        <card name="Contaminated Ground" set="ROE" art="1"/>
+        <card name="Terra Stomper" set="ZEN" art="1"/>
+        <card name="Pyromancer's Assault" set="OGW" art="1"/>
+        <card name="Crypt Ripper" set="ZEN" art="1"/>
+        <card name="Grotag Siege-Runner" set="ROE" art="1"/>
+        <card name="Fortified Rampart" set="BFZ" art="1"/>
+        <card name="Chief Engineer" set="C16" art="1"/>
+        <card name="Hagra Crocodile" set="ZEN" art="1"/>
+        <card name="Blood Seeker" set="ZEN" art="1"/>
+        <card name="Aladdin's Lamp" set="ARN" art="1"/>
+        <card name="Quest for Ula's Temple" set="WWK" art="1"/>
+        <card name="Hedron Archive" set="BFZ" art="1"/>
+        <card name="Tandem Tactics" set="BFZ" art="1"/>
+        <card name="Stonefury" set="BFZ" art="1"/>
+        <card name="Swiftfoot Boots" set="C16" art="1"/>
+        <card name="Oblivion Strike" set="OGW" art="1"/>
+        <card name="Hasran Ogress" set="ARN" art="1"/>
+        <card name="Nirkana Cutthroat" set="ROE" art="1"/>
+        <card name="Frenzied Fugue" set="C16" art="1"/>
+        <card name="Sangromancer" set="C16" art="1"/>
+        <card name="Remorseless Punishment" set="OGW" art="1"/>
+        <card name="Kitesail" set="WWK" art="1"/>
+        <card name="Bloodthrone Vampire" set="ROE" art="1"/>
+        <card name="Kalastria Healer" set="BFZ" art="1"/>
+        <card name="Rapacious One" set="ROE" art="1"/>
+        <card name="Welkin Tern" set="ZEN" art="1"/>
+        <card name="Jungle Shrine" set="C16" art="1"/>
+        <card name="Giant Scorpion" set="ZEN" art="1"/>
+        <card name="Kazandu Blademaster" set="ZEN" art="1"/>
+        <card name="Quest for the Gravelord" set="ZEN" art="1"/>
+        <card name="Darksteel Ingot" set="C16" art="1"/>
+        <card name="Desert" set="ARN" art="1"/>
+        <card name="Narrow Escape" set="ZEN" art="1"/>
+        <card name="Lithomancer's Focus" set="BFZ" art="1"/>
+        <card name="Gravity Negator" set="OGW" art="1"/>
+        <card name="Lay Bare" set="ROE" art="1"/>
+        <card name="Saddleback Lagac" set="OGW" art="1"/>
+        <card name="Strider Harness" set="OGW" art="1"/>
+        <card name="Skyrider Elf" set="BFZ" art="1"/>
+        <card name="Stomper Cub" set="ROE" art="1"/>
+        <card name="Moorish Cavalry" set="ARN" art="2"/>
+        <card name="Jagwasp Swarm" set="WWK" art="1"/>
+        <card name="Shrivel" set="ROE" art="1"/>
+        <card name="Ancient Crab" set="OGW" art="1"/>
+        <card name="Highland Berserker" set="ZEN" art="1"/>
+        <card name="Merchant Ship" set="ARN" art="1"/>
+        <card name="Smother" set="WWK" art="1"/>
+        <card name="Quest for Pure Flame" set="ZEN" art="1"/>
+        <card name="World Breaker" set="OGW" art="1"/>
+        <card name="Plated Geopede" set="ZEN" art="1"/>
+        <card name="Festercreep" set="C16" art="1"/>
+        <card name="Searing Light" set="OGW" art="1"/>
+        <card name="Wall of Resurgence" set="OGW" art="1"/>
+        <card name="Nimana Sell-Sword" set="ZEN" art="1"/>
+        <card name="Courier Griffin" set="BFZ" art="1"/>
+        <card name="Oubliette" set="ARN" art="2"/>
+        <card name="Reckless Cohort" set="BFZ" art="1"/>
+        <card name="Abstruse Interference" set="OGW" art="1"/>
+        <card name="Resolute Blademaster" set="BFZ" art="1"/>
+        <card name="Skywatcher Adept" set="ROE" art="1"/>
+        <card name="Bojuka Brigand" set="WWK" art="1"/>
+        <card name="Plummet" set="BFZ" art="1"/>
+        <card name="Drana's Chosen" set="OGW" art="1"/>
+        <card name="Bazaar of Baghdad" set="ARN" art="1"/>
+        <card name="Dominator Drone" set="BFZ" art="1"/>
+        <card name="Spider Umbra" set="ROE" art="1"/>
+        <card name="Executioner's Capsule" set="C16" art="1"/>
+        <card name="Battle Rampart" set="ROE" art="1"/>
+        <card name="Painful Truths" set="BFZ" art="1"/>
+        <card name="Bloodbond Vampire" set="BFZ" art="1"/>
+        <card name="Quest for the Holy Relic" set="ZEN" art="1"/>
+        <card name="Witness the End" set="OGW" art="1"/>
+        <card name="Holdout Settlement" set="OGW" art="1"/>
+        <card name="Timbermaw Larva" set="ZEN" art="1"/>
+        <card name="Veteran Explorer" set="C16" art="1"/>
+        <card name="Unstable Mutation" set="ARN" art="1"/>
+        <card name="Dutiful Return" set="BFZ" art="1"/>
+        <card name="Farseek" set="C16" art="1"/>
+        <card name="Bladetusk Boar" set="ZEN" art="1"/>
+        <card name="Hedron Rover" set="WWK" art="1"/>
+        <card name="Mindless Null" set="ZEN" art="1"/>
+        <card name="Call the Scions" set="BFZ" art="1"/>
+        <card name="Goblin Tunneler" set="ROE" art="1"/>
+        <card name="Inspired Charge" set="BFZ" art="1"/>
+        <card name="Unnatural Aggression" set="BFZ" art="1"/>
+        <card name="Ruin Processor" set="BFZ" art="1"/>
+        <card name="Pulse Tracker" set="WWK" art="1"/>
+        <card name="Baneful Omen" set="ROE" art="1"/>
+        <card name="Bojuka Bog" set="WWK" art="1"/>
+        <card name="Relic Crush" set="ZEN" art="1"/>
+        <card name="Tajuru Stalwart" set="BFZ" art="1"/>
+        <card name="Paralyzing Grasp" set="ZEN" art="1"/>
+        <card name="Dead Reckoning" set="WWK" art="1"/>
+        <card name="Goblin Roughrider" set="WWK" art="1"/>
+        <card name="Smothering Abomination" set="BFZ" art="1"/>
+        <card name="Disaster Radius" set="ROE" art="1"/>
+        <card name="Lightning Greaves" set="C16" art="1"/>
+        <card name="Flame Slash" set="ROE" art="1"/>
+        <card name="Kor Sky Climber" set="OGW" art="1"/>
+        <card name="Grappling Hook" set="ZEN" art="1"/>
+        <card name="Rampant Growth" set="C16" art="1"/>
+        <card name="Abyssal Persecutor" set="WWK" art="1"/>
+        <card name="Dread Drone" set="ROE" art="1"/>
+        <card name="Matter Reshaper" set="OGW" art="1"/>
+        <card name="Soulbound Guardians" set="ROE" art="1"/>
+        <card name="Arrogant Bloodlord" set="ROE" art="1"/>
+        <card name="Demolish" set="ZEN" art="1"/>
+        <card name="Heat Ray" set="ROE" art="1"/>
+        <card name="Lavafume Invoker" set="ROE" art="1"/>
+        <card name="Mycosynth Wellspring" set="C16" art="1"/>
+        <card name="Deceiver of Form" set="OGW" art="1"/>
+        <card name="Ichor Wellspring" set="C16" art="1"/>
+        <card name="Seer's Lantern" set="OGW" art="1"/>
+        <card name="Corrupted Zendikon" set="WWK" art="1"/>
+        <card name="Guard Duty" set="ROE" art="1"/>
+        <card name="Ior Ruin Expedition" set="ZEN" art="1"/>
+        <card name="Nettle Drone" set="BFZ" art="1"/>
+        <card name="Razor Boomerang" set="WWK" art="1"/>
+        <card name="Sky Ruin Drake" set="ZEN" art="1"/>
+        <card name="Soul Stair Expedition" set="ZEN" art="1"/>
+        <card name="Hagra Diabolist" set="ZEN" art="1"/>
+        <card name="Treasure Cruise" set="C16" art="1"/>
+        <card name="Bog Tatters" set="ZEN" art="1"/>
+        <card name="Anowon, the Ruin Sage" set="WWK" art="1"/>
+        <card name="Malakir Familiar" set="BFZ" art="1"/>
+        <card name="Slaughter Drone" set="OGW" art="1"/>
+        <card name="Student of Warfare" set="ROE" art="1"/>
+        <card name="Kozilek, the Great Distortion" set="OGW" art="1"/>
+        <card name="Metamorphosis" set="ARN" art="1"/>
+        <card name="Blight Herder" set="BFZ" art="1"/>
+        <card name="Reinforced Bulwark" set="ROE" art="1"/>
+        <card name="Stonework Puma" set="ZEN" art="1"/>
+        <card name="Fleeting Distraction" set="ROE" art="1"/>
+        <card name="Lone Missionary" set="ROE" art="1"/>
+        <card name="Kor Hookmaster" set="ZEN" art="1"/>
+        <card name="Mist Intruder" set="BFZ" art="1"/>
+        <card name="Stalwart Shield-Bearers" set="ROE" art="1"/>
+        <card name="Vampire Envoy" set="OGW" art="1"/>
+        <card name="Baloth Null" set="OGW" art="1"/>
+        <card name="Sphere of Safety" set="C16" art="1"/>
+        <card name="Cancel" set="ZEN" art="1"/>
+        <card name="Coiling Oracle" set="C16" art="1"/>
+        <card name="Skitterskin" set="BFZ" art="1"/>
+        <card name="Felidar Cub" set="BFZ" art="1"/>
+        <card name="Narcolepsy" set="ROE" art="1"/>
+        <card name="Ulamog, the Ceaseless Hunger" set="BFZ" art="1"/>
+        <card name="Commander's Sphere" set="C16" art="1"/>
+        <card name="Aura Gnarlid" set="ROE" art="1"/>
+        <card name="Sweep Away" set="OGW" art="1"/>
+        <card name="Vampire's Bite" set="ZEN" art="1"/>
+        <card name="Blind Obedience" set="C16" art="1"/>
+        <card name="Induce Despair" set="ROE" art="1"/>
+        <card name="Surrakar Marauder" set="ZEN" art="1"/>
+        <card name="Khalni Garden" set="WWK" art="1"/>
+        <card name="Zendikar's Roil" set="ORI" art="1"/>
+        <card name="Steppe Glider" set="OGW" art="1"/>
+        <card name="Ruthless Cullblade" set="WWK" art="1"/>
+        <card name="Blighted Fen" set="BFZ" art="1"/>
+        <card name="War Elephant" set="ARN" art="2"/>
+        <card name="Halimar Excavator" set="WWK" art="1"/>
+        <card name="Tomb Hex" set="WWK" art="1"/>
+        <card name="Tajuru Beastmaster" set="BFZ" art="1"/>
+        <card name="Malakir Soothsayer" set="OGW" art="1"/>
+        <card name="Broodwarden" set="ROE" art="1"/>
+        <card name="Spire Barrage" set="ZEN" art="1"/>
+        <card name="Wight of Precinct Six" set="C16" art="1"/>
+        <card name="Terminate" set="C16" art="1"/>
+        <card name="Eldrazi Obligator" set="OGW" art="1"/>
+        <card name="Zektar Shrine Expedition" set="ZEN" art="1"/>
+        <card name="Perish the Thought" set="ROE" art="1"/>
+        <card name="Gloomhunter" set="ROE" art="1"/>
+        <card name="Hedron Crawler" set="OGW" art="1"/>
+        <card name="Scour from Existence" set="BFZ" art="1"/>
+        <card name="Skyline Cascade" set="BFZ" art="1"/>
+        <card name="Pulse of Murasa" set="OGW" art="1"/>
+        <card name="Liliana of the Veil" set="MM3" art="1"/>
+        <card name="Halimar Depths" set="WWK" art="1"/>
+        <card name="Old Man of the Sea" set="ARN" art="1"/>
+        <card name="Diamond Valley" set="ARN" art="1"/>
+        <card name="Grip of Desolation" set="BFZ" art="1"/>
+        <card name="Rupture Spire" set="C16" art="1"/>
+        <card name="Anticipate" set="BFZ" art="1"/>
+        <card name="Shoreline Salvager" set="WWK" art="1"/>
+        <card name="Rukh Egg" set="ARN" art="2"/>
+        <card name="Ghazban Ogre" set="ARN" art="1"/>
+        <card name="Incubator Drone" set="BFZ" art="1"/>
+        <card name="Beast Within" set="C16" art="1"/>
+        <card name="Cuombajj Witches" set="ARN" art="1"/>
+        <card name="Eldrazi Skyspawner" set="BFZ" art="1"/>
+        <card name="Oran-Rief Recluse" set="ZEN" art="1"/>
+        <card name="Hammer of Ruin" set="WWK" art="1"/>
+        <card name="Needlebite Trap" set="ZEN" art="1"/>
+        <card name="Fissure Vent" set="ROE" art="1"/>
+        <card name="Merfolk Observer" set="ROE" art="1"/>
+        <card name="Sanctum Gargoyle" set="C16" art="1"/>
+        <card name="Aether Tradewinds" set="WWK" art="1"/>
+        <card name="Prophetic Prism" set="ROE" art="1"/>
+        <card name="Bird Maiden" set="ARN" art="2"/>
+        <card name="Plated Crusher" set="BFZ" art="1"/>
+        <card name="Sporecap Spider" set="ROE" art="1"/>
+        <card name="Kor Sanctifiers" set="ZEN" art="1"/>
+        <card name="Clutch of Currents" set="BFZ" art="1"/>
+        <card name="Nemesis Trap" set="WWK" art="1"/>
+        <card name="Cinder Hellion" set="OGW" art="1"/>
+        <card name="Escaped Null" set="ROE" art="1"/>
+        <card name="Apex Hawks" set="WWK" art="1"/>
+        <card name="Stone-Throwing Devils" set="ARN" art="1"/>
+        <card name="Shadow Glider" set="BFZ" art="1"/>
+        <card name="Sure Strike" set="BFZ" art="1"/>
+        <card name="Blighted Woodland" set="BFZ" art="1"/>
+        <card name="Knight of Cliffhaven" set="ROE" art="1"/>
+        <card name="Cultivate" set="C16" art="1"/>
+        <card name="Cliffside Lookout" set="BFZ" art="1"/>
+        <card name="Horizon Chimera" set="C16" art="1"/>
+        <card name="Cliff Threader" set="ZEN" art="1"/>
+        <card name="Territorial Baloth" set="BFZ" art="1"/>
+        <card name="Twitch" set="WWK" art="1"/>
+        <card name="Tightening Coils" set="BFZ" art="1"/>
+        <card name="Quest for the Goblin Lord" set="WWK" art="1"/>
+        <card name="Gomazoa" set="ZEN" art="1"/>
+        <card name="Naturalize" set="ROE" art="1"/>
+        <card name="Lavalanche" set="C16" art="1"/>
+        <card name="Chromatic Lantern" set="C16" art="1"/>
+        <card name="Grave Birthing" set="BFZ" art="1"/>
+        <card name="Turntimber Basilisk" set="ZEN" art="1"/>
+        <card name="Whispersilk Cloak" set="C16" art="1"/>
+        <card name="Hagra Sharpshooter" set="BFZ" art="1"/>
+        <card name="Magosi, the Waterveil" set="ZEN" art="1"/>
+        <card name="Merfolk Wayfinder" set="ZEN" art="1"/>
+        <card name="Havoc Sower" set="OGW" art="1"/>
+        <card name="Nirkana Assassin" set="BFZ" art="1"/>
+        <card name="Aligned Hedron Network" set="BFZ" art="1"/>
+        <card name="Repel the Darkness" set="ROE" art="1"/>
+        <card name="Caustic Crawler" set="WWK" art="1"/>
+        <card name="Summit Apes" set="WWK" art="1"/>
+        <card name="Loxodon Warhammer" set="C16" art="1"/>
+        <card name="Skeletal Wurm" set="ROE" art="1"/>
+        <card name="Goblin Arsonist" set="ROE" art="1"/>
+        <card name="Might of the Masses" set="ROE" art="1"/>
+        <card name="Emeria, the Sky Ruin" set="ZEN" art="1"/>
+        <card name="Kitesail Apprentice" set="WWK" art="1"/>
+        <card name="Natural State" set="OGW" art="1"/>
+        <card name="Hyena Umbra" set="ROE" art="1"/>
+        <card name="Smite" set="ROE" art="1"/>
+        <card name="Makindi Griffin" set="ROE" art="1"/>
+        <card name="Windrider Eel" set="ZEN" art="1"/>
+        <card name="Warden of Geometries" set="OGW" art="1"/>
+        <card name="Guul Draz Specter" set="ZEN" art="1"/>
+        <card name="Unnatural Endurance" set="OGW" art="1"/>
+        <card name="Landbind Ritual" set="ZEN" art="1"/>
+        <card name="Sandstorm" set="ARN" art="1"/>
+        <card name="Runed Servitor" set="ROE" art="1"/>
+        <card name="Maw of Kozilek" set="OGW" art="1"/>
+        <card name="Endless One" set="BFZ" art="1"/>
+        <card name="Curtains' Call" set="C16" art="1"/>
+        <card name="Desecrated Earth" set="ZEN" art="1"/>
+        <card name="City of Brass" set="ARN" art="1"/>
+        <card name="Boulder Salvo" set="OGW" art="1"/>
+        <card name="Shatterskull Giant" set="ZEN" art="1"/>
+        <card name="Endbringer" set="OGW" art="1"/>
+        <card name="Nimbus Wings" set="ZEN" art="1"/>
+        <card name="Kozilek's Translator" set="OGW" art="1"/>
+        <card name="Curse of Wizardry" set="ROE" art="1"/>
+        <card name="Canopy Cover" set="WWK" art="1"/>
+        <card name="Mire's Malice" set="BFZ" art="1"/>
+        <card name="Reality Hemorrhage" set="OGW" art="1"/>
+        <card name="Broodhunter Wurm" set="BFZ" art="1"/>
+        <card name="Zof Shade" set="ROE" art="1"/>
+        <card name="Etched Oracle" set="C16" art="1"/>
+        <card name="Nafs Asp" set="ARN" art="2"/>
+        <card name="Fishliver Oil" set="ARN" art="1"/>
+        <card name="Vastwood Zendikon" set="WWK" art="1"/>
+        <card name="Lavaclaw Reaches" set="WWK" art="1"/>
+        <card name="Assault Suit" set="C16" art="1"/>
+        <card name="Walker of the Wastes" set="OGW" art="1"/>
+        <card name="Shoal Serpent" set="ZEN" art="1"/>
+        <card name="Lavastep Raider" set="BFZ" art="1"/>
+        <card name="Hedron Scrabbler" set="ZEN" art="1"/>
+        <card name="Volcanic Upheaval" set="BFZ" art="1"/>
+        <card name="Stone Haven Medic" set="BFZ" art="1"/>
+        <card name="Dawnglare Invoker" set="ROE" art="1"/>
+        <card name="Carnage Altar" set="ZEN" art="1"/>
+        <card name="Joraga Bard" set="ZEN" art="1"/>
+        <card name="Chitinous Cloak" set="OGW" art="1"/>
+        <card name="Join the Ranks" set="WWK" art="1"/>
+        <card name="Kozilek's Shrieker" set="OGW" art="1"/>
+        <card name="Beastbreaker of Bala Ged" set="ROE" art="1"/>
+        <card name="Crusher Zendikon" set="WWK" art="1"/>
+        <card name="Ondu Giant" set="ROE" art="1"/>
+        <card name="Shieldmate's Blessing" set="ZEN" art="1"/>
+        <card name="Disfigure" set="ZEN" art="1"/>
+        <card name="Grotag Thrasher" set="WWK" art="1"/>
+        <card name="Blisterpod" set="BFZ" art="1"/>
+        <card name="Vampire Lacerator" set="ZEN" art="1"/>
+        <card name="Stoneforge Acolyte" set="OGW" art="1"/>
+        <card name="Mortify" set="C16" art="1"/>
+        <card name="Malakir Cullblade" set="ORI" art="1"/>
+        <card name="Butcher of Malakir" set="WWK" art="1"/>
+        <card name="Slab Hammer" set="BFZ" art="1"/>
+        <card name="Voracious Null" set="BFZ" art="1"/>
+        <card name="Slaughter Cry" set="ZEN" art="1"/>
+        <card name="Arcane Sanctum" set="C16" art="1"/>
+        <card name="Cadaver Imp" set="ROE" art="1"/>
+        <card name="Pennon Blade" set="ROE" art="1"/>
+        <card name="Kor Skyfisher" set="ZEN" art="1"/>
+        <card name="Hideous End" set="ZEN" art="1"/>
+        <card name="Mind Raker" set="BFZ" art="1"/>
+        <card name="Jwar Isle Avenger" set="OGW" art="1"/>
+        <card name="Khalni Heart Expedition" set="ZEN" art="1"/>
+        <card name="Malakir Bloodwitch" set="ZEN" art="1"/>
+        <card name="Champion's Drake" set="ROE" art="1"/>
+        <card name="Hurr Jackal" set="ARN" art="1"/>
+        <card name="Makindi Sliderunner" set="BFZ" art="1"/>
+        <card name="Kor Cartographer" set="ZEN" art="1"/>
+        <card name="Affa Protector" set="OGW" art="1"/>
+        <card name="Trapfinder's Trick" set="ZEN" art="1"/>
+        <card name="Jwari Scuttler" set="ROE" art="1"/>
+        <card name="Untamed Hunger" set="OGW" art="1"/>
+        <card name="Swarm Surge" set="BFZ" art="1"/>
+        <card name="Unknown Shores" set="OGW" art="1"/>
+        <card name="Dreadship Reef" set="C16" art="1"/>
+        <card name="Bearer of Silence" set="OGW" art="1"/>
+        <card name="Nighthaze" set="ROE" art="1"/>
+        <card name="Giant Tortoise" set="ARN" art="2"/>
+        <card name="Everflowing Chalice" set="C16" art="1"/>
+        <card name="Demon's Grasp" set="BFZ" art="1"/>
+        <card name="Puncturing Light" set="ROE" art="1"/>
+        <card name="Feral Contest" set="WWK" art="1"/>
+        <card name="Mijae Djinn" set="ARN" art="1"/>
+        <card name="Grasp of Darkness" set="OGW" art="1"/>
+        <card name="Null Champion" set="ROE" art="1"/>
+        <card name="Soul's Attendant" set="ROE" art="1"/>
+        <card name="Command Tower" set="C16" art="1"/>
+        <card name="Hand of Emrakul" set="ROE" art="1"/>
+        <card name="Sludge Crawler" set="BFZ" art="1"/>
+        <card name="Domestication" set="ROE" art="1"/>
+        <card name="Crumbling Necropolis" set="C16" art="1"/>
+        <card name="Wastes" set="OGW" art="1"/>
+        <card name="Altar's Reap" set="BFZ" art="1"/>
+        <card name="Dispel" set="BFZ" art="1"/>
+        <card name="Reaver Drone" set="OGW" art="1"/>
+        <card name="Null Caller" set="OGW" art="1"/>
+    </unlockedCards>
+    <newCards>
+        <card name="Strider Harness" set="OGW" art="1"/>
+        <card name="Ogre's Cleaver" set="ROE" art="1"/>
+        <card name="Visions of Brutality" set="OGW" art="1"/>
+        <card name="Lightning Greaves" set="C16" art="1"/>
+    </newCards>
+    <exiledCards/>
+    <commanders>
+        <item>
+            <card name="Ob Nixilis, Unshackled" set="M15" art="1"/>
+            <record wins="21" losses="23"/>
+        </item>
+        <item>
+            <card name="Anowon, the Ruin Sage" set="WWK" art="1"/>
+            <record wins="27" losses="22"/>
+        </item>
+        <item>
+            <card name="Kozilek, the Great Distortion" set="OGW" art="1"/>
+            <record wins="0" losses="0"/>
+        </item>
+        <item>
+            <card name="Ulamog, the Ceaseless Hunger" set="BFZ" art="1"/>
+            <record wins="0" losses="0"/>
+        </item>
+    </commanders>
+    <planeDataMap>
+        <Innistrad>
+            <location plane="Innistrad" regionIndex="0" row="0" col="0"/>
+            <eventResults/>
+        </Innistrad>
+        <Zendikar>
+            <location plane="Zendikar" regionIndex="0" row="2" col="0"/>
+            <eventResults>
+                <i0>
+                    <tiers>
+                        <i0 wins="45" losses="39"/>
+                    </tiers>
+                </i0>
+                <i1>
+                    <tiers>
+                        <i0 wins="1" losses="2"/>
+                    </tiers>
+                </i1>
+                <i2>
+                    <tiers>
+                        <i0 wins="0" losses="1"/>
+                    </tiers>
+                </i2>
+                <i3>
+                    <tiers>
+                        <i0 wins="1" losses="0"/>
+                    </tiers>
+                </i3>
+                <i4>
+                    <tiers>
+                        <i0 wins="1" losses="1"/>
+                    </tiers>
+                </i4>
+                <i6>
+                    <tiers>
+                        <i0 wins="0" losses="2"/>
+                    </tiers>
+                </i6>
+            </eventResults>
+        </Zendikar>
+    </planeDataMap>
+</data>
